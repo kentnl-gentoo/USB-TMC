@@ -23,5 +23,11 @@ requires:
   constant: '0'
   strict: '0'
   warnings: '0'
-version: '0.002'
+resources:
+  IRC: "'irc://chat.freenode.net/#labmeasurement'"
+  MailingList: "'https://www-mailman.uni-regensburg.de/mailman/listinfo/lab-measurement-users'"
+  bugtracker: https://github.com/lab-measurement/USB-TMC/issues
+  homepage: http://www.labmeasurement.de/
+  repository: https://github.com/lab-measurement/USB-TMC.git
+version: '0.003'
 x_serialization_backend: 'YAML::Tiny version 1.69'

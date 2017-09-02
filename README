@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution USB-TMC,
-version 0.002:
+version 0.003:
 
   Perl interface to USB Test & Measurement (USBTMC) backend.
 

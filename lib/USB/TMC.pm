@@ -42,7 +42,7 @@ use strict;
 use warnings;
 
 package USB::TMC;
-$USB::TMC::VERSION = '0.002';
+$USB::TMC::VERSION = '0.003';
 use USB::LibUSB;
 use Moose;
 use MooseX::Params::Validate 'validated_list';
