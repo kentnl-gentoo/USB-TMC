@@ -1,5 +1,5 @@
 ---
-abstract: 'Perl interface to USBTMC Test&Measurement backend.'
+abstract: 'Perl interface to USB Test & Measurement (USBTMC) backend.'
 author:
   - 'Simon Reinhardt <simon.reinhardt@stud.uni-regensburg.de>'
 build_requires:
@@ -23,5 +23,5 @@ requires:
   constant: '0'
   strict: '0'
   warnings: '0'
-version: '0.001'
+version: '0.002'
 x_serialization_backend: 'YAML::Tiny version 1.69'

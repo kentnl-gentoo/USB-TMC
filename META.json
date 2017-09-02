@@ -1,5 +1,5 @@
 {
-   "abstract" : "Perl interface to USBTMC Test&Measurement backend.",
+   "abstract" : "Perl interface to USB Test & Measurement (USBTMC) backend.",
    "author" : [
       "Simon Reinhardt <simon.reinhardt@stud.uni-regensburg.de>"
    ],
@@ -38,8 +38,8 @@
          }
       }
    },
-   "release_status" : "testing",
-   "version" : "0.001",
+   "release_status" : "stable",
+   "version" : "0.002",
    "x_serialization_backend" : "Cpanel::JSON::XS version 3.0217"
 }
 

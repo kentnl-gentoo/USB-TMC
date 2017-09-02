@@ -7,7 +7,7 @@ use warnings;
 use ExtUtils::MakeMaker;
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "Perl interface to USBTMC Test&Measurement backend.",
+  "ABSTRACT" => "Perl interface to USB Test & Measurement (USBTMC) backend.",
   "AUTHOR" => "Simon Reinhardt <simon.reinhardt\@stud.uni-regensburg.de>",
   "CONFIGURE_REQUIRES" => {
     "ExtUtils::MakeMaker" => 0
@@ -29,7 +29,7 @@ my %WriteMakefileArgs = (
     "Module::Load" => 0,
     "Test::More" => 0
   },
-  "VERSION" => "0.001",
+  "VERSION" => "0.002",
   "test" => {
     "TESTS" => "t/*.t"
   }
