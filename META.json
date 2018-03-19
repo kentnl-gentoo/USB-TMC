@@ -33,7 +33,6 @@
       },
       "test" : {
          "requires" : {
-            "Module::Load" : "0",
             "Test::More" : "0"
          }
       }

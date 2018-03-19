@@ -3,7 +3,6 @@ abstract: 'Perl interface to USB Test & Measurement (USBTMC) backend.'
 author:
   - 'Simon Reinhardt <simon.reinhardt@stud.uni-regensburg.de>'
 build_requires:
-  Module::Load: '0'
   Test::More: '0'
 configure_requires:
   ExtUtils::MakeMaker: '0'
